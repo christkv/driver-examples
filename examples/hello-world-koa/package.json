@@ -1,0 +1,31 @@
+{
+  "name": "hello-world-koa",
+  "version": "1.0.0",
+  "description": "A hello world using koa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:christkv/driver-examples.git"
+  },
+  "keywords": [
+    "koa",
+    "mongodb",
+    "example"
+  ],
+  "author": "Christian Kvalheim",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/christkv/driver-examples/issues"
+  },
+  "homepage": "https://github.com/christkv/driver-examples",
+  "dependencies": {
+    "co": "^4.6.0",
+    "koa": "^2.0.0-alpha.3",
+    "koa-convert": "^1.2.0",
+    "koa-router": "^7.0.0",
+    "mongodb": "^2.1.0"
+  }
+}
