@@ -1,0 +1,29 @@
+{
+  "name": "hello-world-express",
+  "version": "1.0.0",
+  "description": "A simple hello world application using MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:christkv/driver-examples.git"
+  },
+  "keywords": [
+    "mongodb",
+    "example",
+    "application",
+    "express"
+  ],
+  "author": "Christian Kvalheim",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/christkv/driver-examples/issues"
+  },
+  "homepage": "https://github.com/christkv/driver-examples",
+  "dependencies": {
+    "express": "^4.13.3",
+    "mongodb": "^2.1.0"
+  }
+}
